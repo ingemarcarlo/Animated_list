@@ -1,0 +1,9 @@
+{
+	"name": "QBulletText",
+	"description": "Animated Bullets for Story Presentations",
+	"icon" : "extensions",
+    "preview": "BulletList.png",
+	"type": "visualization",
+	"version": 1,
+	"author": "ico"
+}

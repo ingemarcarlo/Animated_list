@@ -11,3 +11,5 @@ After its properties have been set, size and color, and it has been snapshotted,
 [Snapshot](https://github.com/ingemarcarlo/Animated_list/blob/ico_Animated_list/SnapshotInSlide.png?raw=true)
 
 This extensions has been tested with Qlik Sense desktop version 1.1
+Please Note: The colorpicker is not covered in the Qlik Sense API documentation and is thereby not currently supported by Qlik.
+The code for this extension may be updated to be compatible with the next release.
